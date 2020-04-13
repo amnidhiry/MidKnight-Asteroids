@@ -1,0 +1,170 @@
+@import url('https://fonts.googleapis.com/css?family=Teko');
+
+@font-face{
+    font-family:"Library";
+    src: url("library-3-am/Library 3 am.otf") 
+}
+
+@font-face{
+    font-family:"ralel";
+    src: url("raleway/Raleway-Light.ttf") 
+}
+
+@font-face{
+    font-family:"Quantum";
+    src: url("Quantum.otf") 
+}
+
+@font-face{
+    font-family:"Monster";
+    src: url("montserrat/Montserrat-Regular.ttf") 
+}
+
+@font-face{
+    font-family:"Library";
+    src: url("library-3-am/Library 3 am.otf") 
+}
+
+@font-face{
+    font-family:"Mosk";
+    src: url("Mosk Typeface/Mosk Medium 500.tff") 
+}
+
+
+@font-face{
+    font-family:"Bourbon";
+    src: url("BourbonGrotesque-Regular+(1).otf") 
+}
+@font-face{
+    font-family:"rale";
+    src: url("raleway/Raleway-Regular.ttf") 
+}
+
+@font-face{
+    font-family:"Port";
+    src: url("Potra (1)/Potra.ttf") 
+}
+
+
+
+body{
+margin: 0;
+}
+.wrapper{
+    padding-bottom:0px;
+}
+
+th.ha{
+    border: 2px solid black;
+}
+
+th.don{
+    color: white;
+    border: 2px solid black;
+}
+h1{
+    position: fixed;
+    z-index: 3;
+    left: 25%;
+    top: -5%;
+    color: white; /*rgb(216, 185, 73)*/ 
+    font-family:"Bourbon";
+    font-size: 60px;
+    margin-left: -2%;
+    margin-right: 5%;
+    
+    
+}
+a.color-one{
+    position: fixed;
+    left: 2%;
+    top: 2%;
+    color: rgb(216, 185, 73);
+    z-index: 3;
+    text-decoration: none;
+    font-family: "Rale";
+    font-size: 18px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+a.color-two{
+    position: fixed;
+    left: 93%;
+    top: 2%;
+    color: rgb(216, 185, 73);
+    z-index: 3;
+    text-decoration: none;
+    font-family: "Rale";
+    font-size: 18px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+a.color-three{
+    position: fixed;
+    left: 93%;
+    top: 95%;
+    color: rgb(216, 185, 73);
+    z-index: 3;
+    text-decoration: none;
+    font-family: "Rale";
+    font-size: 18px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+a.color-four{
+    position: fixed;
+    left: 2%;
+    top: 95%;
+    color: rgb(216, 185, 73);
+    z-index: 3;
+    text-decoration: none;
+    font-family: "Rale"/*'Teko', sans-serif*/;
+    font-size: 18px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.gaf{
+   position: fixed;
+    left: 2%;
+    top: 3%;
+    z-index: 3;
+   margin-left: 46%;
+       margin-right: 46%; 
+    color: white; /*rgb(216, 185, 73)*/ 
+    
+    
+     
+}
+
+.merch{
+    height:770px;
+    width: 100%;
+    position: relative;
+    border-top: 3px solid rgb(226, 187, 29);
+    
+    background-attachment: fixed;
+    
+    
+   
+    
+}
+iframe {
+position: fixed;
+right: 0;
+bottom: 0;
+min-width: 100%;
+min-height: 100%;
+width: auto;
+height: auto;
+
+background: url('IMG_6272.JPG') no-repeat;
+background-size: cover;
+}
+
+
+
+
+    

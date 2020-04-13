@@ -1,0 +1,436 @@
+@import url('https://fonts.googleapis.com/css?family=Teko');
+
+@font-face{
+    font-family:"Library";
+    src: url("library-3-am/Library 3 am.otf") 
+}
+
+@font-face{
+    font-family:"ralel";
+    src: url("raleway/Raleway-Light.ttf") 
+}
+
+@font-face{
+    font-family:"Quantum";
+    src: url("Quantum.otf") 
+}
+
+@font-face{
+    font-family:"Monster";
+    src: url("montserrat/Montserrat-Regular.ttf") 
+}
+
+@font-face{
+    font-family:"Library";
+    src: url("library-3-am/Library 3 am.otf") 
+}
+
+@font-face{
+    font-family:"Mosk";
+    src: url("Mosk Typeface/Mosk Medium 500.tff") 
+}
+
+
+@font-face{
+    font-family:"Bourbon";
+    src: url("BourbonGrotesque-Regular+(1).otf") 
+}
+@font-face{
+    font-family:"rale";
+    src: url("raleway/Raleway-Regular.ttf") 
+}
+
+@font-face{
+    font-family:"Port";
+    src: url("Potra (1)/Potra.ttf") 
+}
+
+th.ha{
+    border: 2px solid black;'
+    width: 20%;
+}
+
+
+
+body{
+margin: 0;
+background-color: rgb(226, 187, 29);
+}
+.wrapper{
+    padding-bottom:0px;
+}
+
+.gaf{
+   position: fixed;
+    left: 2%;
+    top: 3%;
+    z-index: 3;
+   margin-left: 46%;
+       margin-right: 46%; 
+    color: white; /*rgb(216, 185, 73)*/ 
+
+}
+th.don{
+    color: white;
+     border: 2px solid black;
+    width: 20%;
+    
+}
+h1{
+    position: fixed;
+    z-index: 3;
+    left: 25%;
+    top: -5%;
+    color: white; /*rgb(216, 185, 73)*/ 
+    font-family:"Bourbon";
+    font-size: 60px;
+    margin-left: -2%;
+    margin-right: 5%;
+    
+    
+}
+a.color-one{
+    position: fixed;
+    left: 2%;
+    top: 2%;
+    color: black;
+    z-index: 3;
+    text-decoration: none;
+    font-family: "Rale";
+    font-size: 18px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+a.color-two{
+    position: fixed;
+    left: 93%;
+    top: 2%;
+    color: black;
+    z-index: 3;
+    text-decoration: none;
+    font-family: "Rale";
+    font-size: 18px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+a.color-three{
+    position: fixed;
+    left: 93%;
+    top: 95%;
+    color: black;
+    z-index: 3;
+    text-decoration: none;
+    font-family: "Rale";
+    font-size: 18px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+a.color-four{
+    position: fixed;
+    left: 2%;
+    top: 95%;
+    color: black;
+    z-index: 3;
+    text-decoration: none;
+    font-family: "Rale"/*'Teko', sans-serif*/;
+    font-size: 18px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+
+
+
+
+.mercs{
+    height:800px;
+    width: 100%;
+    position:relative;
+    border-top: 3px solid black;
+    background-color: rgb(226, 187, 29);
+    background-attachment: fixed;
+    float: left;
+    
+    
+   
+    
+}
+
+
+    
+   
+    
+}
+
+a.joey{
+    text-decoration: none;
+     color: white;
+    font-weight: bold; 
+    
+    
+    
+}
+
+
+a.joey:hover{
+    color: black;
+}
+
+a.joey:visited{
+    color: black;
+    text-decoration: none;
+}
+
+
+
+a.joe{
+    text-decoration: none;
+     color: white;
+    font-weight: bold; 
+    
+    
+    
+}
+
+
+a.joe:hover{
+    color: black;
+}
+
+a.joe:visited{
+    color: black;
+    text-decoration: none;
+}
+
+
+p.dog{
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    width: 100%;
+    height: 300px;
+    background-color: rgb(226, 187, 29);
+    font-family: Bourbon;
+}
+
+th.run{
+    border: 2px solid black;
+    color: white;
+    height: 20px;
+    width: 20%;
+}
+
+table.people{
+    width: 100%;
+    border: 2px solid black;
+    margin-top: 130px;
+    border-collapse: collapse;
+    
+    
+}
+
+tr{
+    border: 2px solid black;
+}
+
+.chart{
+    height: 570px;
+    width: 40%;
+    background-color: rgb(0,0,0, 0.6);
+    position: absolute;
+    top: 20%;
+    left: 8%;
+}
+
+h2.m {
+    font-size: 60px;
+     font-family: Bourbon;
+    color: white;
+    margin-left: 34%;
+    margin-right: 32%;
+    margin-top: 15%;
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    
+    
+    
+}
+
+h2.n {
+    font-size: 40px;
+     font-family: Bourbon;
+    color: white;
+    
+    text-align: center;
+    
+    
+}
+
+th.z{
+    width:20%;
+    height: 50%
+}
+
+h2.f {
+   
+     font-family: Bourbon;
+    color: white;
+  
+   
+    font-size: 25px;
+    
+}
+
+
+h2.p {
+    font-size: 90px;
+     font-family: Bourbon;
+    color: white;
+    margin-left: 14%;
+    margin-top: 7%;
+    position: absolute;
+    top: -3%;
+    left: 24%;
+    font-size: 40px;
+    
+}
+
+h4.button{
+    height: 50px;
+    width: 15%;
+    border: 5px solid black;
+   font-size: 30px;
+    text-align: center; 
+    margin-left: 15%;
+    margin-top: 3%;
+    padding: 10px;
+    
+   
+    
+}
+
+
+
+p.c{
+    margin-left: 70%;
+}
+
+th{
+    color: rgb(216, 185, 73);
+    font-family: "Monster";
+    padding-right: 26px;
+}
+
+a.shop{
+    text-decoration: none;
+    color: white;
+    
+    
+}
+
+ .fa {
+  padding: 5px;
+  font-size: 25px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+     border-radius: 30px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+
+.fa-snapchat-ghost {
+  background: #fffc00;
+  color: white;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+
+
+.card {
+    width: 600px;
+    margin: 75px auto 0;
+    background-color: #fff;
+    box-shadow: 0 3px 30px rgba(0, 0, 0, .14);
+    color: #444;
+    text-align: center;
+    font-size: 16px;
+  
+    
+}
+
+.card .card-header {
+   position: relative;
+    height: 48px;
+}
+
+.card .card-header .profile-img {
+    width: 96px;
+    height: 96px;
+    border-radius: 1000px;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border: 6px solid #fff;
+    box-shadow: 0 0 20px rgba(0, 0, 0, .2);
+}
+
+.card .card-body {
+    padding: 10px 40px;
+}
+
+.card .card-body .full-name {
+    font-size: 20px;
+    font-weight: 600;
+    text-transform: uppercase;
+    margin: 10px 0 0;
+}
+
+.card .card-body .username {
+    font-size: 13px;
+    color: #777;
+    margin: 5px 0 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width: 575px) {
+    .card {
+        width: 96%;
+    }
+
+
+}

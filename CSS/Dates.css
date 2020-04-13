@@ -1,0 +1,477 @@
+@import url('https://fonts.googleapis.com/css?family=Teko');
+
+@font-face{
+    font-family:"Library";
+    src: url("library-3-am/Library 3 am.otf") 
+}
+
+@font-face{
+    font-family:"ralel";
+    src: url("raleway/Raleway-Light.ttf") 
+}
+
+@font-face{
+    font-family:"Quantum";
+    src: url("Quantum.otf") 
+}
+
+@font-face{
+    font-family:"Monster";
+    src: url("montserrat/Montserrat-Regular.ttf") 
+}
+
+@font-face{
+    font-family:"Library";
+    src: url("library-3-am/Library 3 am.otf") 
+}
+
+@font-face{
+    font-family:"Mosk";
+    src: url("Mosk Typeface/Mosk Medium 500.tff") 
+}
+
+
+@font-face{
+    font-family:"Bourbon";
+    src: url("BourbonGrotesque-Regular+(1).otf") 
+}
+@font-face{
+    font-family:"rale";
+    src: url("raleway/Raleway-Regular.ttf") 
+}
+
+@font-face{
+    font-family:"Port";
+    src: url("Potra (1)/Potra.ttf") 
+}
+
+
+body, html{
+   margin: 0;
+   height: 100%;
+}
+
+
+body{
+background-color: black;
+}
+.wrapper{
+    padding-bottom:0px;
+}
+
+
+
+th.don{
+    color: white;
+    
+}
+h1{
+    position: fixed;
+    z-index: 3;
+    left: 25%;
+    top: -5%;
+    color: white; /*rgb(216, 185, 73)*/ 
+    font-family:"Bourbon";
+    font-size: 60px;
+    margin-left: -2%;
+    margin-right: 5%;
+    
+    
+}
+a.color-one{
+    position: fixed;
+    left: 2%;
+    top: 2%;
+    color: rgb(226, 187, 29);
+    z-index: 3;
+    text-decoration: none;
+    font-family: "Rale";
+    font-size: 18px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+a.color-two{
+    position: fixed;
+    left: 93%;
+    top: 2%;
+    color: rgb(226, 187, 29);
+    z-index: 3;
+    text-decoration: none;
+    font-family: "Rale";
+    font-size: 18px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+a.color-three{
+    position: fixed;
+    left: 93%;
+    top: 95%;
+    color: rgb(226, 187, 29);
+    z-index: 3;
+    text-decoration: none;
+    font-family: "Rale";
+    font-size: 18px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+a.color-four{
+    position: fixed;
+    left: 2%;
+    top: 95%;
+    color: rgb(226, 187, 29);
+    z-index: 3;
+    text-decoration: none;
+    font-family: "Rale"/*'Teko', sans-serif*/;
+    font-size: 18px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+
+
+
+.merch{
+    height:770px;
+    width: 100%;
+    position: relative;
+    border-top: 3px solid rgb(226, 187, 29);
+    
+    background-attachment: fixed;
+    
+    
+   
+    
+}
+
+img.mon{
+    width: 100%;
+    height:inherit;
+    
+}
+
+.{
+    height:770px;
+    width: 100%;
+    position: relative;
+    border-top: 3px solid rgb(226, 187, 29);
+    
+    background-attachment: fixed;
+    
+    
+   
+    
+}
+
+#mat{
+    position: absolute;
+    left: 0%;
+    top: 0%;
+}
+
+#ma{
+    position: absolute;
+    left: 0%;
+    top: 0%;
+}
+
+.mercs{
+   
+    width: 100%;
+    position:relative;
+ height:100%;
+    float: left;
+    
+    
+   
+    
+}
+
+.merd{
+    height:650px;
+    width: 50%;
+    position:relative;
+    display: inline-block;
+    float: left;
+    border-top: 3px solid rgb(226, 187, 29);
+    background-color: black;
+    background-attachment: fixed;
+    vertical-align: top;
+    
+    
+    
+   
+    
+}
+
+a.joey{
+    text-decoration: none;
+     color: white;
+    font-weight: bold; 
+    
+    
+    
+}
+
+
+a.joey:hover{
+    color: black;
+}
+.merp{
+    height:100px;
+    width: 100%;
+    position:relative;
+   
+    border-top: 3px solid rgb(226, 187, 29);
+    background-color: rgb(226, 187, 29);
+    background-attachment: fixed;
+    vertical-align: top;
+    
+    
+    
+   
+    
+}
+.gaf{
+   position: fixed;
+    left: 2%;
+    top: 3%;
+    z-index: 3;
+   margin-left: 46%;
+       margin-right: 46%; 
+    color: white; /*rgb(216, 185, 73)*/ 
+    
+    
+     
+}
+
+p.dog{
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    width: 100%;
+    height: 300px;
+    background-color: rgb(226, 187, 29);
+    font-family: Bourbon;
+}
+
+th.run{
+    
+    color: white;
+    height: 20px;
+    width: 10px;
+   text-align: center;
+}
+
+
+
+tr{
+    
+}
+
+.chart{
+    height: 570px;
+    width: 40%;
+    background-color: rgb(0,0,0, 0.6);
+    position: absolute;
+    top: 20%;
+    left: 8%;
+}
+
+h2.m {
+    font-size: 60px;
+     font-family: Bourbon;
+    color: white;
+    margin-left: 37%;
+    margin-top: 20%;
+    position: absolute;
+    top: -3%;
+    left: -2%;
+    
+    
+}
+
+h2.n {
+    font-size: 90px;
+     font-family: Bourbon;
+    color: white;
+   margin-left: 40%;
+    margin-top: 7%;
+    margin-right: 40%;
+    
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    text-align: center;
+    font-size: 40px;
+    
+}
+
+th.z{
+    width:20%;
+    height: 50%
+}
+
+h2.f {
+   
+     font-family: Bourbon;
+    color: white;
+  
+   
+    font-size: 25px;
+    
+}
+
+
+h2.p {
+    font-size: 90px;
+     font-family: Bourbon;
+    color: white;
+    margin-left: 14%;
+    margin-top: 7%;
+    position: absolute;
+    top: -3%;
+    left: 24%;
+    font-size: 40px;
+    
+}
+
+h4.button{
+    height: 50px;
+    width: 15%;
+    border: 5px solid black;
+   font-size: 30px;
+    text-align: center; 
+    margin-left: 15%;
+    margin-top: 3%;
+    padding: 10px;
+    
+        
+}
+p.c{
+    margin-left: 70%;
+}
+
+table.people{
+    width: 45%;
+    margin-left: 1%;
+    margin-top: 12%;
+
+    
+}
+
+table.peopl{
+    width: 45%;
+    margin-left: 51%;
+    margin-top: 12%;
+
+    
+}
+
+th{
+    color: rgb(216, 185, 73);
+    font-family: "Monster";
+    
+}
+
+a.shop{
+    text-decoration: none;
+    color: white;
+    
+    
+}
+
+th.hat{
+    color: rgb(216, 185, 73);
+    padding: 20px;
+  
+    width: 3%;
+    margin-bottom: 10px;
+
+}
+
+
+
+
+th.ha{
+    color: rgb(216, 185, 73);
+    padding: 20px;
+  
+    width: 8%;
+    margin-bottom: 10px;
+
+}
+th.har{
+    width: 2%;
+    color: black;
+      
+    text-align: center;
+    background-color: rgb(216, 185, 73);
+   
+  
+}
+a.son{
+    color: white;
+    text-decoration: none;
+}
+
+a.beta {
+    color: red;
+    text-decoration: none;
+}
+
+a.so{
+    color: rgb(216, 185, 73);
+    text-decoration: none;
+}
+th.har:hover{
+   background-color:black;
+    color: rgb(216, 185, 73);
+  cursor: pointer;
+     -webkit-transition: background-color 1s ease-out;
+  -moz-transition: background-color 1s ease-out;
+  -o-transition: background-color 1s ease-out;
+  transition: background-color 1s ease-out;
+    
+}
+
+th.hart{
+    width: 2%;
+    color:rgb(216, 185, 73);
+      
+    text-align: center;
+    background-color: black;
+   
+  
+}
+
+th.hart:hover{
+   background-color:white;
+    color: black;
+  cursor: pointer;
+     -webkit-transition: background-color 1s ease-out;
+  -moz-transition: background-color 1s ease-out;
+  -o-transition: background-color 1s ease-out;
+  transition: background-color 1s ease-out;
+    
+}
+
+
+th.title{
+    color: rgb(216, 185, 73);
+    font-family: Bourbon;
+    border-bottom: 2px solid black;
+    padding: 0px 0px 30px 30px;
+    font-size: 20px;
+}
+
+ 
+}
+
+.covid19 {
+    margin-left: 10px;
+    margin-right: 10px;
+    
+}
